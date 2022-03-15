@@ -1,0 +1,12 @@
+Flask
+gunicorn 
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+torch
+torchvision
+pytesseract
+PIL
+os
