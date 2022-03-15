@@ -8,7 +8,6 @@ numpy
 torch
 torchvision
 pytesseract
-PIL
 os
 torchaudio
 tesseract-osr
